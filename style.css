@@ -4,7 +4,7 @@ body {
 }
 
 #start-container,
-#game-over-container. {
+#game-over-container {
     max-width: 600px;
     margin: 0 auto;
     text-align: center;
@@ -16,8 +16,8 @@ body {
 }
 
 .question {
-    font-size;
-    margin-bottom;
+    font-size: 18px;
+    margin-bottom: 10px;
 }
 
 .options {
@@ -33,5 +33,29 @@ body {
     color: #fff;
     border: none;
     border-radius: 5px;
+}
+
+.option:hover {
+    background-color: #2980b9;
+}
+
+#result {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+#timer {
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+#next-button {
+    display:none;
+
+}
+
+#submit-button {
+    margin-top: 10px;
 }
 
