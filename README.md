@@ -11,9 +11,9 @@ Open in browser of your choice. Click the <Start Button!>, to begin the quiz. Ha
 ## Gallery
 <img width="1421" alt="Screenshot 2023-12-06 at 7 56 25 PM" src="https://github.com/MattThompson15/JavaScript-Code-Quiz/assets/139708928/ce9d13d7-adcd-4466-87ab-ba60c0d0b6c8">
 
-# Credit
+## Credit
 MattThompson15
 
-# Licence
+## Licence
 
 
